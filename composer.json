@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": ">=5.5.0",
-    "symfony/framework-bundle": "~2.3",
+    "symfony/framework-bundle": "~3.2.8",
     "intercom/intercom-php": "~1.2.0"
   },
   "require-dev": {
